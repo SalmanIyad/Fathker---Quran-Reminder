@@ -21,7 +21,7 @@ Future updates will include options to:
 Whether you’re working on a project or debugging code, **Fathker** helps you stay connected to your faith, providing spiritual motivation and tranquility in the midst of your daily tasks.
 
 ## 🤝 Contributions
-We welcome contributions! Feel free to submit issues or feature requests on the [GitHub repository](https://github.com/yourusername/fathker).
+We welcome contributions! Feel free to submit issues or feature requests on the [GitHub repository](https://github.com/SalmanIyad/Fathker-Quran-Reminder).
 
 ---
 
